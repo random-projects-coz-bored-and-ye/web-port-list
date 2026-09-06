@@ -1,5 +1,3 @@
-## Remember you can always check out https://docs.google.com/document/d/1_FmH3BlSBQI7FGgAQL59-ZPe8eCxs35wel6JUyVaG8Q/edit?tab=t.5mxpq2ftusx6 for webports :)
-
 # web ports
 - [-3](https://github.com/aukak/-3) - port by [bog/aukak](https://github.com/aukak)
 - [-b](https://github.com/web-ports/baldi-mods/tree/main/-b) - port by [bog/aukak](https://github.com/aukak)
